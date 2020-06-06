@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://gatsby-theme-novela.netlify.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Seguridad de la Información`,
+    name: `Yamil Elías`,
+    siteUrl: `https://yamilelias.github.io`,
+    description: `Seguridad de la Información. Encuentra todo explicado de la manera sencilla.`,
 
     // important to set the main text that appears in the hero
     hero: {
-      heading: `Seguridad de la Información. Encuentra todo explicado de la manera más sencilla.`,
+      heading: `Seguridad de la Información. Encuentra todo explicado de la manera sencilla.`,
       maxWidth: 652,
     },
     social: [
