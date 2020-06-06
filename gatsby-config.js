@@ -20,11 +20,11 @@ module.exports = {
         url: `https://github.com/yamilelias`,
       },
       {
-        name: `medium`,
+        name: `twitter`,
         url: `https://twitter.com/elyamilin`,
       },
       {
-        name: `twitter`,
+        name: `medium`,
         url: `https://medium.com/@yamilelias/`,
       },
     ],
