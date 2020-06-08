@@ -34,5 +34,5 @@ module.exports = {
     options: {
       authorsPage: true,
     },
-    }],
+  }],
 };
