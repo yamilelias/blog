@@ -1,0 +1,11 @@
+- name: Yamil Elías
+  bio: |
+    Escrito por Yamil Elías, ingeniero apasionado por la Seguridad de la Información.
+    Deberías buscar más sobre él en redes sociales.
+  avatar: ./avatars/yamilin-avatar.jpg
+  featured: true
+  social:
+    - url: https://www.linkedin.com/in/yamilelias/
+    - url: https://github.com/yamilelias
+    - url: https://medium.com/@yamilelias/
+    - url: https://twitter.com/elyamilin
